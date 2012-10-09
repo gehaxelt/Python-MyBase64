@@ -1,0 +1,7 @@
+This is an implementation of base64 in Python.
+
+It may can be optimized, in different places.
+
+==============
+Information:
+http://www.arndt-bruenner.de/mathe/scripts/base64.htm
